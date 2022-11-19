@@ -1,0 +1,1 @@
+### Projekt do integracji z sonarcloudem
