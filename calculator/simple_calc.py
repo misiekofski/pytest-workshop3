@@ -34,5 +34,8 @@ class SimpleCalculator:
         return sum(_it) / len(_it)
 
 
-    def sum(self):
+    def sumasa(self):
         return 1
+        print("Test")
+
+2
