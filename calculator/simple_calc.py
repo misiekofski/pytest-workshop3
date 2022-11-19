@@ -32,3 +32,7 @@ class SimpleCalculator:
             return 0
 
         return sum(_it) / len(_it)
+
+
+    def sum(self):
+        return 1
