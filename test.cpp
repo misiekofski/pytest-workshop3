@@ -1,0 +1,1 @@
+is_temp(space)?assert(size>=5):assert(size>=7);
