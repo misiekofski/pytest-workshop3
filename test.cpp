@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include <cassert>
 using namespace std;
 
 bool is_temp(bool bool_value) {
